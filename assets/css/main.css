@@ -867,7 +867,7 @@ section {
   margin: 0 10px;
   padding: 10px 5px;
   transition: 0.3s;
-  color: var(--color-secondary);
+  color: #cc98ba;
   border-radius: 0;
   cursor: pointer;
   height: 100%;
@@ -939,7 +939,7 @@ section {
 .menu .tab-content .menu-item h4 {
   font-size: 22px;
   font-weight: 500;
-  color: var(--color-secondary);
+  color: #934790;
   font-family: var(--font-secondary);
   font-weight: 30px;
   margin-bottom: 5px;
